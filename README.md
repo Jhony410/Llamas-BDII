@@ -23,5 +23,4 @@ Ing. Mayenka Fernandez Chambi
 ## Video
 La explicación del video  [Llamas BDII]([https://www.youtube.com]). y los códigos usados.
 
-## Archivos filtrados
-En la primera parte del video hay archivos CSV para la base de datos y las visualizacione. [Archivos filtrados](https://drive.google.com/drive/folders/1azGwbzTU9VifuwGV1ItdOm3IuBtCpIOX?usp=sharing).
+## [Codigo de la Base de Datos]([https://github.com/Jhony410/Llamas-BDII/blob/main/datos.sql]).
