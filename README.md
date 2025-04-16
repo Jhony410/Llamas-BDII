@@ -53,7 +53,7 @@ En resumen, la aplicación cumple con los objetivos iniciales, con un enfoque en
 
 
 ## Video
-La explicación del video  [SQL externo , con PHP y antiinyecciones sql](https://www.youtube.com). y los códigos usados.
+La explicación del video  [SQL externo , con PHP y antiinyecciones sql](https://www.youtube.com/watch?v=FrPnD18cEZM&ab_channel=JhonyAguilar). y los códigos usados.
 
 ## Codigo de la Base de Datos
 [Codigo](https://github.com/Jhony410/Llamas-BDII/blob/main/datos.sql).
