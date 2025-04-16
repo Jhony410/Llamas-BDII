@@ -21,7 +21,7 @@ Ing. Mayenka Fernandez Chambi
 
 
 ## Video
-La explicación del video  [Llamas BDII]([https://www.youtube.com]). y los códigos usados.
+La explicación del video  [Llamas BDII](https://www.youtube.com). y los códigos usados.
 
 ## Codigo de la Base de Datos
-[Codigo]([https://github.com/Jhony410/Llamas-BDII/blob/main/datos.sql]).
+[Codigo](https://github.com/Jhony410/Llamas-BDII/blob/main/datos.sql).
